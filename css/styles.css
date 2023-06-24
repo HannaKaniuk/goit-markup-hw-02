@@ -87,10 +87,49 @@ p {
   font-weight: 800;
   line-height: 21px;
 }
+.logo-white {
+  color: #fff;
+}
 h3 {
   color: var#2E2F42;
   font-size: 20px;
   font-family: Roboto;
   font-weight: 500;
   line-height: 24px;
+}
+.portfolio-button {
+  color: #4d5ae5;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+}
+.portfolio-button:hover {
+  background: #404bbf;
+  color: #fff;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+}
+footer {
+  background-color: #2e2f42;
+}
+.paragraph-white {
+  color: #f4f4fd;
+
+  font-size: 16px;
+  font-family: Roboto;
+  line-height: 24px;
+}
+.background-color {
+  background: #f4f4fd;
+}
+.foto-background {
+  border-radius: 0px 0px 4px 4px;
+  background: #fff;
+}
+.foto-background-portfolio {
+  border: #e7e9fc;
+  background: #fff;
 }
