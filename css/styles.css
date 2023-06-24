@@ -95,6 +95,7 @@ p {
 }
 .logo-white {
   color: #fff;
+  text-decoration: none;
 }
 h3 {
   color: var#2E2F42;
