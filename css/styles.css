@@ -74,28 +74,20 @@ p {
   letter-spacing: 0.32px;
 }
 .logo {
-  color: #2e2f42;
-  font-size: 18px;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
+  font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  text-decoration: none;
-}
-.logo-blue {
   color: #4d5ae5;
-  font-size: 18px;
-  font-family: "Raleway", sans-serif;
-  font-weight: 800;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   text-decoration: none;
 }
-.logo-white {
-  color: #fff;
-  text-decoration: none;
+.studio {
+  color: #2e2f42;
+}
+.studio.footer {
+  color: #f4f4fd;
 }
 h3 {
   color: var#2E2F42;
