@@ -133,16 +133,16 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--primary-brand);
-  background-color: var(#f4f4fd);
+  background-color: var(--light);
   cursor: pointer;
 }
 .portfolio-button:hover {
   color: var(--white-background);
-  background-color: var(#404bbf);
+  background-color: var(--pressed-state);
 }
 .portfolio-button:focus {
   color: var(--white-background);
-  background-color: var(#404bbf);
+  background-color: var(--pressed-state);
 }
 .foto-background {
   background-color: var(--white-background);
